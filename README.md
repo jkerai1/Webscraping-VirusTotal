@@ -1,4 +1,4 @@
-# Webscraping-VirusTotal
+# Webscraping-VirusTotal in Python using Beautiful Soup
 A Test Project for scraping VirusTotal just for fun.
 
 There is no real reason to do it using web-scrapping rather than VirusTotal's API.
